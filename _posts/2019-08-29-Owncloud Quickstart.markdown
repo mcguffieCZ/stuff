@@ -15,8 +15,8 @@ Follow these steps:
 	
 	<p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>   
 	
-- Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
-- [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
+	- Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
+	- [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
 
 2. Install the package.
    
