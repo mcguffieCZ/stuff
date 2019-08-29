@@ -63,6 +63,7 @@ Follow these steps:
    > **Note:** Untrusted Certificate page may open. If certificate is from a trusted source, click the *Trust this certificate anyway* radio button and then the *OK* button.
    
 4. Enter Username and Password and click *Next*.
+
    *<p>Setup local folder options* page opens.</p>
 
 5. Select required options and local folder location. Click *Connect*. 
