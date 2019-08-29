@@ -64,7 +64,7 @@ Follow these steps:
    
 4. Enter Username and Password and click *Next*.
 
-   *<p>Setup local folder options* page opens.</p>
+   *Setup local folder options* page opens.
 
 5. Select required options and local folder location. Click *Connect*. 
 
