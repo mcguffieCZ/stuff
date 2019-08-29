@@ -12,15 +12,21 @@ This Quickstart is intended to help:
 Follow these steps:
 
 1. Download an installation package.
-   <p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>
+   
+<p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>
+   
 - Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
    
 - [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
    
 2. Install the package.
-   Follow the instructions specific to your installation package and installation method.
+
+   <p>Follow the instructions specific to your installation package and installation method.</p>
+
 3. Configure Owncloud
-   If you have chosen to use an appliance for the installation, most of these steps are covered for you. If a manual installation has been selected, see [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html).
+
+   <p>If you have chosen to use an appliance for the installation, most of these steps are covered for you. If a manual installation has been selected, see [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html).</p>
+
 4. Login to the server via a browser to ensure installation is successful.
 
 ## Enable user to connect to the server via alternate IP Address/Port
@@ -32,12 +38,13 @@ In order to make an alternate address/port available for access (port 8080, for 
 Follow these steps:
 
 1. From the top left menu in the browser, select *Administrator* -> *Users*
-   Users table is presented
+   
+   <p>Users table is presented.</p>
 2. In the *Username* field, provide a name for the new user.
 3. In the *E-Mail* field, provide an email for the new user.
-   **Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the dropdown menu in the *Groups* column.
+   **<p>Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the dropdown menu in the *Groups* column.</p>
 4. Click *Create*.
-   The user is created and visible in the table.
+   <p>The user is created and visible in the table.</p>
 
 ## Connect to the server with client application
 
