@@ -11,17 +11,17 @@ This Quickstart is intended to help:
 
 Follow these steps:
 
-1. Download an installation package.  
-   <li>Owncloud server can be run on many flavors of Linux and a number of database servers. </li>
-2. Owncloud server can be run on many flavors of Linux and a number of database servers. 
-   - Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
-
-   - [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
-3. Install the package.
+1. Download an installation package.
+   Owncloud server can be run on many flavors of Linux and a number of database servers. 
+- Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
+   
+- [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
+   
+2. Install the package.
    Follow the instructions specific to your installation package and installation method.
-4. Configure Owncloud
+3. Configure Owncloud
    If you have chosen to use an appliance for the installation, most of these steps are covered for you. If a manual installation has been selected, see [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html).
-5. Login to the server via a browser to ensure installation is successful.
+4. Login to the server via a browser to ensure installation is successful.
 
 ## Enable user to connect to the server via alternate IP Address/Port
 
