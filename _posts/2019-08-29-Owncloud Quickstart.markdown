@@ -18,7 +18,7 @@ Follow these steps:
 
    - [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
 
-2. Install the package
+2. Install the package.
    Follow the instructions specific to your installation package and installation method.
 
 3. Configure Owncloud
