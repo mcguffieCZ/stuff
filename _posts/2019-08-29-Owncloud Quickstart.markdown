@@ -54,7 +54,9 @@ Follow these steps:
 
 2. Start the application.
    
-<p>The *Connection Wizard* opens.</p>
+
+	<p>The *Connection Wizard* opens.</p>
+
 3. Enter Server Address and click *Next*.
 *<p>User credential* page opens.</p>
    
