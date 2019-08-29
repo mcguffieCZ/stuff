@@ -66,6 +66,6 @@ Follow these steps:
    *<p>Setup local folder options* page opens.</p>
 
 5. Select required options and local folder location. Click *Connect*. 
-   
+
    <p>Application connects to server and synchronizes specified folder.</p>
 
