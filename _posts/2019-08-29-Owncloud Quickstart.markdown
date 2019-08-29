@@ -26,9 +26,9 @@ Follow these steps:
 
 4. Login to the server via a browser to ensure installation is successful.
 
-## Enable user to connect to the server via IP Address/Port 8080
+## Enable user to connect to the server via alternate IP Address/Port
 
-In order to make an alternate available for access (port 8080, for example), a change will need to be made in the webserver settings. See [Apache documentation](https://httpd.apache.org/docs/2.4/) for information on how to change the default port.
+In order to make an alternate address/port available for access (port 8080, for example), a change will need to be made in the webserver settings. See [Apache documentation](https://httpd.apache.org/docs/2.4/) for information on how to change the default port.
 
 ## Add user accounts to the Owncloud server
 
@@ -38,7 +38,7 @@ Follow these steps:
    Users table is presented
 2. In the *Username* field, provide a name for the new user.
 3. In the *E-Mail* field, provide an email for the new user.
-   **Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the drop down menu in the *Groups* column.
+   **Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the dropdown menu in the *Groups* column.
 4. Click *Create*.
    The user is created and visible in the table.
 
