@@ -11,9 +11,9 @@ This Quickstart is intended to help:
 
 Follow these steps:
 
-1. Download an installation package.
+1. Download an installation package.	
    
-<p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>
+	<p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>
    
 - Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
    
@@ -44,6 +44,7 @@ Follow these steps:
 3. In the *E-Mail* field, provide an email for the new user.
    **<p>Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the dropdown menu in the *Groups* column.</p>
 4. Click *Create*.
+   
    <p>The user is created and visible in the table.</p>
 
 ## Connect to the server with client application
