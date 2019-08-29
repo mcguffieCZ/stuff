@@ -11,16 +11,14 @@ This Quickstart is intended to help:
 
 Follow these steps:
 
-1. Download an installation package.	
-   
-	<p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>
-   
+1. Download an installation package.	   
+	
+	<p>Owncloud server can be run on many flavors of Linux and a number of database servers. </p>   
 - Review [Deployment Considerations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html), [Deployment Recommendations](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_recommendations.html) and [System Requirements](https://doc.owncloud.org/server/10.2/admin_manual/installation/system_requirements.html).
 - [Select the package](https://owncloud.org/download/) best suited for your environments and technical ability. 
 2. Install the package.
-
+   
    <p>Follow the instructions specific to your installation package and installation method.</p>
-
 3. Configure Owncloud.
 
    > **Note:** If you have chosen to use an appliance for the installation, most of the 	configuration steps are done for you. If a manual installation is required, see [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html).
@@ -57,7 +55,6 @@ Follow these steps:
 2. Start the application.
    
 <p>The *Connection Wizard* opens.</p>
-   
 3. Enter Server Address and click *Next*.
 *<p>User credential* page opens.</p>
    
