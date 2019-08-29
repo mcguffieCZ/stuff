@@ -56,15 +56,15 @@ Follow these steps:
 1. Download and install the required [client application](https://owncloud.org/download/#owncloud-desktop-client).
 
 2. Start the application.
-   The *Connection Wizard* opens.
+   < p>The *Connection Wizard* opens.</p>
 
 3. Enter Server Address and click *Next*.
-*User credential* page opens.
+*<p>User credential* page opens.</p>
    **Note:** Untrusted Certificate page may open. If certificate is from a trusted source, click the *Trust this certificate anyway* radio button and then the *OK* button.
    
 4. Enter Username and Password and click *Next*.
-   *Setup local folder options* page opens.
+   *<p>Setup local folder options* page opens.</p>
 
 5. Select required options and local folder location. Click *Connect*. 
-   Application connects to server and synchronizes specified folder.
+   <p>Application connects to server and synchronizes specified folder.</p>
 
