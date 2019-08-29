@@ -23,9 +23,8 @@ Follow these steps:
    <p>Follow the instructions specific to your installation package and installation method.</p>
 
 3. Configure Owncloud.
-  <p>If you have chosen to use an appliance for the installation, most of the configuration steps are done for you. See [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html) if a manual installation is selected.</p>
 
-  <p>If you have chosen to use an appliance for the installation, most of these steps are covered for you. See specific instructions if a manual installation is selected.</p>
+  > **Note:** If you have chosen to use an appliance for the installation, most of the configuration steps are done for you. See [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html) if a manual installation is selected.
 
 4. Login to the server via a browser to ensure installation is successful.
 
@@ -42,7 +41,8 @@ Follow these steps:
    <p>Users table is presented.</p>
 2. In the *Username* field, provide a name for the new user.
 3. In the *E-Mail* field, provide an email for the new user.
-   **<p>Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the dropdown menu in the *Groups* column.</p>
+   
+   > **Note:** If groups have been created, new users can be added to a group by selecting the  group name in the dropdown menu. Groups can also be created and users added using the dropdown menu in the *Groups* column.
 4. Click *Create*.
    
    <p>The user is created and visible in the table.</p>
@@ -60,7 +60,8 @@ Follow these steps:
 
 3. Enter Server Address and click *Next*.
 *<p>User credential* page opens.</p>
-   **Note:** Untrusted Certificate page may open. If certificate is from a trusted source, click the *Trust this certificate anyway* radio button and then the *OK* button.
+   
+   > **Note:** Untrusted Certificate page may open. If certificate is from a trusted source, click the *Trust this certificate anyway* radio button and then the *OK* button.
    
 4. Enter Username and Password and click *Next*.
    *<p>Setup local folder options* page opens.</p>
