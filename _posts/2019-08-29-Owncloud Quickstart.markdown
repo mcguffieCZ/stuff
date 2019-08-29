@@ -23,8 +23,7 @@ Follow these steps:
    <p>Follow the instructions specific to your installation package and installation method.</p>
 
 3. Configure Owncloud.
-If you have chosen to use an appliance for the installation, most of these steps are covered for you. If a manual installation has been selected, see [specific instructions]().
-   
+<p>If you have chosen to use an appliance for the installation, most of these steps are covered for you. If a manual installation has been selected, see [specific instructions](https://doc.owncloud.com/server/10.1/admin_manual/installation/manual_installation.html).</p>
 4. Login to the server via a browser to ensure installation is successful.
 
 ## Enable user to connect to the server via alternate IP Address/Port
