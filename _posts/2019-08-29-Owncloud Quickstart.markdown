@@ -56,7 +56,7 @@ Follow these steps:
 1. Download and install the required [client application](https://owncloud.org/download/#owncloud-desktop-client).
 
 2. Start the application.
-   < p>The *Connection Wizard* opens.</p>
+   <p>The *Connection Wizard* opens.</p>
 
 3. Enter Server Address and click *Next*.
 *<p>User credential* page opens.</p>
