@@ -2,7 +2,7 @@
 
 To book and pay for travel on the kiwi.com platform, follow these steps:
 
-After selecting departure and arrival locations and approximate dates, a selection of travel options is presented. The *Book* button is available for each selection.
+After selecting departure and arrival locations and approximate dates, a selection of travel options is presented. Travel option filters are in the left hand column. The *Book* button is available for each selection.
 
 1. Click the *Book* button for the chosen selection.
 
@@ -11,6 +11,8 @@ After selecting departure and arrival locations and approximate dates, a selecti
 2. Provide passenger information, select a baggage option, select an insurance plan, add an additional passenger (if applicable) and verify contact details.
 
    **Note:** Total travel cost is dynamically presented in the right hand column.
+
+   ![1569838225801](C:\Users\mcguf\AppData\Roaming\Typora\typora-user-images\1569838225801.png)
 
    Click *Continue*.
 
