@@ -12,7 +12,7 @@ After selecting departure and arrival locations and approximate dates, a selecti
 
    > **Note:** Total travel cost is dynamically presented in the right hand column. ![travelcost](\stuff\assets\images\travelcost.png){:height="50%" width="50%"} 
 
-   > **Note:** In the case there are special baggage conditions due to travel selection, this will be presented on the *Passenger details* page. Click *Learn more* to see condition details and further instructions.
+   > **Note:** In the case there are special baggage conditions due to travel selection, this will be presented on the *Passenger details* page. Click ***Learn more*** to see condition details and further instructions.
 
    Click *Continue*.
 
