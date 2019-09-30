@@ -59,7 +59,7 @@ Follow these steps:
 	
 3. Enter Server Address and click *Next*.
 
-   > *User credential* page opens.
+   *User credential* page opens
    
    > **Note:** Untrusted Certificate page may open. If certificate is from a trusted source, click the *Trust this certificate anyway* radio button and then the *OK* button.
    
