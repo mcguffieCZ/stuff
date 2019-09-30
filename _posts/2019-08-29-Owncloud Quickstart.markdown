@@ -58,7 +58,8 @@ Follow these steps:
 	<p>The <em>Connection Wizard</em> opens.</p>
 	
 3. Enter Server Address and click *Next*.
-*<p>User credential* page opens.</p>
+
+   *<p>User credential* page opens.</p>
    
    > **Note:** Untrusted Certificate page may open. If certificate is from a trusted source, click the *Trust this certificate anyway* radio button and then the *OK* button.
    
