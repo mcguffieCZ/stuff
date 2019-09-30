@@ -11,6 +11,7 @@ After selecting departure and arrival locations and approximate dates, a selecti
 2. Provide passenger information, select a baggage option, select an insurance plan, add an additional passenger (if applicable) and verify contact details.
 
    **Note:** Total travel cost is dynamically presented in the right hand column.
+   <img src="C:\Users\mcguf\Documents\GitHub\stuff\_posts\travelcost.png" alt="travelcost" style="zoom:50%;" />
 
    Click *Continue*.
 
