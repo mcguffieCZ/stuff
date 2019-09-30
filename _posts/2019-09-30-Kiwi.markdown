@@ -1,7 +1,19 @@
-<<<<<<< HEAD
-test
+# Booking and Paying Workflow
 
-=======
-test
+To book and pay for travel on the kiwi.com platform, follow these steps:
 
->>>>>>> 9a2d4cd85d5487cdf616533b4ca9d5303c4bb02c
+After selecting departure and arrival locations and approximate dates, a selection of travel options is presented. The *Book* button is available for each selection.
+
+1. Click the *Book* button for the chosen selection.
+   The *Passenger details* page opens. 
+2. Provide passenger information, select a baggage option, select an insurance plan, add an additional passenger (if applicable) and verify contact details.
+   **Note:** Total travel cost is dynamically presented in the right hand column.
+   Click *Continue*.
+   The *Customise your trip* page opens.
+3. Select trip customizations and click *Continue*.
+   *Customer care* page opens.
+4. Select Customer Care level and click on *Continue with...* for the desired column.
+   The *Overview & payment* page opens.
+5. Confirm the Overview information and Invoice details.
+6. Provide payment details and click *Pay (value)* to process payment.
+   
