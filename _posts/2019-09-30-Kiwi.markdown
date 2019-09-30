@@ -12,8 +12,6 @@ After selecting departure and arrival locations and approximate dates, a selecti
 
    **Note:** Total travel cost is dynamically presented in the right hand column.
 
-   ![1569838225801](C:\Users\mcguf\AppData\Roaming\Typora\typora-user-images\1569838225801.png)
-
    Click *Continue*.
 
    The *Customise your trip* page opens.
