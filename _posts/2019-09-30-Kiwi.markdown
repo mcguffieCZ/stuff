@@ -22,6 +22,8 @@ After selecting departure and arrival locations and approximate dates, a selecti
 
    *Customer care* page opens.
 
+   > **Note:** Click *Learn more* to see customization details.
+
 4. Select Customer Care level and click on *Continue with...* for the desired column.
 
    The *Overview & payment* page opens.
