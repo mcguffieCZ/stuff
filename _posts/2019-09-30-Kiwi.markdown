@@ -18,11 +18,11 @@ After selecting departure and arrival locations and approximate dates, a selecti
 
    The *Customise your trip* page opens.
 
-3. Select trip customizations and click *Continue*.
+3. Click *From (value)* to add or remove trip customizations and click *Continue*.
 
-   *Customer care* page opens.
+   > **Note:** Click **Learn more** to see customization details.
 
-   > **Note:** Click *Learn more* to see customization details.
+   The *Customer care* page opens.
 
 4. Select Customer Care level and click on *Continue with...* for the desired column.
 
