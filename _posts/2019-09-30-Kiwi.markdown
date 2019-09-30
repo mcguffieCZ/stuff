@@ -24,11 +24,16 @@ After selecting departure and arrival locations and approximate dates, a selecti
 
    The *Customer care* page opens.
 
-4. Select Customer Care level and click on *Continue with...* for the desired column.
+4. Select Customer Care level and click on the *Continue with...* button for the desired column.
 
    The *Overview & payment* page opens.
 
 5. Confirm the Overview information and Invoice details.
 
+   > **Note:** Click the **Edit invoice details** radio button to change invoice details.
+
 6. Provide payment details and click *Pay (value)* to process payment.
+
+   > **Note:** Click the **Redeem promo code** link above the payment window to apply the discount.
+
    
