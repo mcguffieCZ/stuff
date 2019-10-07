@@ -98,9 +98,6 @@ Returns list of all promocodes in our system with some additional information.
 
 ## PUT
 
-ToDo: Write documentation for creating one promocode. A user should provide the API with the same details that are returned for each promocode in the GET method above.
-In the response, the API returns created promocode with all its details. New promocodes are not used. Parameters that can be null, might not be passed to the API.
-
 Creates promocode(s) in our system with some additional information.
 
 **Parameters of every promocode:**
