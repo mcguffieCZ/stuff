@@ -38,6 +38,8 @@ When creating or editing a project, the following fields are available:
 
 ![1571045271984](https://github.com/mcguffieCZ/stuff/blob/master/assets/images/1571045271984.png)
 
+![1571045271984](\stuff\assets\images\1571045271984.png){:height="50%" width="50%"} 
+
 #### Machine Translation
 
  Click on the **+** to view machine translation options.
