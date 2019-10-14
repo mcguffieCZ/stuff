@@ -36,7 +36,7 @@ When creating or editing a project, the following fields are available:
 
  Click **New** from the *Projects* section to display project settings:
 
-![1571045271984](C:\Users\mcguf\AppData\Roaming\Typora\typora-user-images\1571045271984.png)
+![1571045271984](C:\Users\mcguf\Documents\GitHub\stuff\assets\images\1571045271984.png)
 
 #### Machine Translation
 
@@ -67,13 +67,19 @@ For more help, see [Analysis](https://help.memsource.com/hc/en-us/articles/36000
 
 #### Pre-translation
 
-Set the default pre-translation for your project. As with project analysis, this setting is connected to the *Job Pre-translation* window so that any changes made in the *Job Pre-translation* settings will be saved in the *Project* settings and vice versa. For more details, see our [Pre-translate](https://help.memsource.com/hc/en-us/articles/360002841231-Pre-translate-jobs) article.
+Set the default pre-translation for your project. 
+
+> Note: As with Analysis, this setting is connected to the *Job Pre-translation* window. Any changes made in *Job Pre-translation* settings will be saved in *Project* settings and vice versa. 
+
+For more help, see [Pre-translate](https://help.memsource.com/hc/en-us/articles/360002841231-Pre-translate-jobs).
 
 #### Project Status Automation
 
 Project Status Automation rules enable users to configure when a project‘s status should be automatically changed. Project Status Automation rules can be saved in a [project template](https://help.memsource.com/hc/en-us/articles/115003483952-Project-Templates) and used together with an [Automation Widget](https://help.memsource.com/hc/en-us/articles/115003941812-Automation-Widget) or with [Automated Project Creation](https://help.memsource.com/hc/en-us/articles/115003460931-How-to-setup-and-use-the-Automated-Project-Creation) to achieve a completely automated process without a Project Manager’s involvement.
 
-All options are deselected by default and can be modified on the account level in *Setup*, and on the project level in [Project Settings](https://help.memsource.com/hc/en-us/articles/115003680771-Projects#Project_Settings_1). The options are as follows:
+All options are deselected by default and can be modified on the account level in *Setup*, and on the project level in [Project Settings](https://help.memsource.com/hc/en-us/articles/115003680771-Projects#Project_Settings_1). 
+
+Project Status Automation options:
 
 - Set the project to **Assigned** once all jobs are **Emailed**
 - Set the project to **Assigned** once all jobs are **Accepted**
