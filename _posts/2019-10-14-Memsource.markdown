@@ -36,7 +36,7 @@ When creating or editing a project, the following fields are available:
 
  Click **New** from the *Projects* section to display project settings:
 
-![1571045271984](C:\Users\mcguf\Documents\GitHub\stuff\assets\images\1571045271984.png)
+![1571045271984](https://github.com/mcguffieCZ/stuff/blob/master/assets/images/1571045271984.png)
 
 #### Machine Translation
 
