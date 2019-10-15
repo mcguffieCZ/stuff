@@ -2,7 +2,8 @@
 
 ## Projects page
 
-- Need separation as to what is procedure and what is description.
+- Need separation as to what is procedure and what is concept.
+- Perhaps break up the page for user roles (apply to whole doc set) i.e.: "I am a translator and I need to..." "I administrate translators and I need..."
 - Need separation for 'notes'.
 - Consistency in external references 'consult', 'see', 'for more details'.
 - Stronger use of imperative.
